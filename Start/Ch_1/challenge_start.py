@@ -3,7 +3,7 @@
 
 import json
 
-
+# added a comment 
 # for this challenge, we're going to summarize the earthquake data as follows:
 # 1: How many quakes are there in total?
 # 2: How many quakes were felt by at least 100 people?
